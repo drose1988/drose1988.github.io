@@ -2,7 +2,7 @@
 
 ### Learn About My Projects
 
-#### [Quality of Location - developing a new pitch metric](https://drose1988.github.io/pitch_location_quality_project/)
+### [Quality of Location - developing a new pitch metric](https://drose1988.github.io/pitch_location_quality_project/)
 [<img src="images/6287190ed833f.image.jpg"/>](https://drose1988.github.io/pitch_location_quality_project/)
 The Winning Playbook is an insightful analysis to explore the performance of NBA teams during the 2021-2022 season. We'll use Tableau to visualize & explore the performance of different basketball teams, and players in a variety of factors, including wins and losses, offensive and defensive efficiency, and individual players' statistics on having the most assists at different positions.
 ---
