@@ -1,4 +1,4 @@
-## [Learn About Me](/aboutme.md)
+## [About Me](/aboutme.md)
 
 ### Learn About My Projects
 
