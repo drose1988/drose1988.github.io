@@ -1,3 +1,7 @@
+## [Learn About Me](/aboutme.md)
+
+### Learn About My Projects
+
 ## Portfolio
 
 ---
