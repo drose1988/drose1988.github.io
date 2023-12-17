@@ -1,6 +1,6 @@
 ### [About Me](/aboutme.md)
 
-## Learn About My Projects
+## Project Portfolio
 
 ### [Quality of Location - Building a New Pitch Metric with R](https://drose1988.github.io/pitch_location_quality_project/)
 [<img src="images/6287190ed833f.image.jpg"/>](https://drose1988.github.io/pitch_location_quality_project/)
