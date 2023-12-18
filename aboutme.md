@@ -1,32 +1,10 @@
 ## About Me<br>
-👋🏻 Hi, I'm Madeeha! I am a Data Analyst Professional📊. I love data and I am passionate to learn and excel in Data Analytics. Connect with me and learn about my data journey.💡 
+Welcome, my name Doug Rose, and I am enthusiastically pursuing a career as a data analyst.
 
-✨ As a Graduate in Economics and an experienced E-commerce professional, I have a strong track record of 𝐚𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐬𝐚𝐥𝐞𝐬 𝐝𝐚𝐭𝐚, where I monitored market trends. My 𝐬𝐭𝐫𝐨𝐧𝐠 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐬𝐤𝐢𝐥𝐥𝐬 helped me to built effective supplier relationships, I identified growth opportunities, managed inventory and achieved a 𝟐𝟎% increase in sales through strategic marketing campaigns.
+My love for data is rooted in my lifelong passion for baseball and the transformative role that analytics plays in improving our comprehension of the game. The flood of innovation and the open flow of information within the baseball community over the past few decades has not only led me to reevaluate the game through a data-driven lens but has also reshaped my own cognitive perspective, instilling in me an appreciation for the significance of data in shaping our world. This fascination with the evolving landscape of the sport has inspired me to pivot towards a career in data analytics.
 
-I led a team of 9 employees, that tend to increase productivity by 15% and maximized accounts ROI. I managed to provide exceptional customer service to drive revenue growth. I'm experienced working with major platforms like Amazon, Walmart, Etsy, and eBay.
+Throughout my adult life, I have fortified my communication and team-work skills through experiences working as a bike messenger and electrician. These diverse roles and experiences have fostered my ability to thrive in novel challenges and navigate problem-solving scenarios successfully. I’ve learned how to excel in the workplace by employing creative approaches to challenges while maintaining a methodical, focused approach. 
 
- 🌟 I'm excited to utilize my experience in data analytics. I am ready for new challenges. I've always been drawn to "Why" in everything and I know that my analytical skills with critical thinking will serve me well in data world. I am highly motivated to research and taking new initiatives. 
+As I transition into the field of analytics, I have equipped myself for success by completing a number of comprehensive bootcamps and online specializations. These learning experiences have not only strengthen my technical proficiency in tools like SQL, R, Excel, and Tableau but also built foundational skills necessary to thrive as an entry-level analyst.
 
-I am thrilled to make a career change and dive headfirst into the world of **Data Analytics**. 📊📚
-
-My technical skills include:
-
-◻️ **SQL**
-
-◻️ **Excel**
-
-◻️ **Google Sheets**
-
-◻️ **Tableau**
-
-◻️ **Data Visualization**
-
-🌐 Visit my [𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://madeehaumar.github.io/)
-
-It includes projects using different skills like 𝐄𝐱𝐜𝐞𝐥, 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 and 𝐒𝐐𝐋. New projects are continuously adding to the Portfolio. These projects are enhancing my 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬, 𝐝𝐚𝐭𝐚 𝐯𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧, and 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 skills.
-
-💡To prepare for my transition, I've been studying Data Analytics Accelerator Bootcamp and excelling these skills. I've been blown away by what I've learned so far. I can't wait to start applying my new skills to real-world problems and helping businesses to make 𝐝𝐚𝐭𝐚 𝐝𝐫𝐢𝐯𝐞𝐧 𝐝𝐞𝐜𝐢𝐬𝐢𝐨𝐧𝐬.
-
-🌠 When I'm not thinking about data analytics, you can find me cooking delicious meals, baking and spending time with family. I'm a huge fan of nature, and I love spending time doing walks, exploring trails & camping. It always fascinates me. 🌝
-
-🌟 I am eager to connect with data professionals & share their valuable insights. I am highly motivated to learn from those who have pivoted to data analytics like me. If you're interested in discussing my career change or simply wish to connect, please don't hesitate to reach out. I look forward to having great conversation!<br>
+Thank you reading! I hope you find my completed projects intriguing and valuable. I am excited to contribute my skills and knowledge to meet the unique needs of an organization, and look forward to the opportunity.
